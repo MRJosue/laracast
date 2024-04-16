@@ -7,7 +7,7 @@
             </svg>
         </button>
     
-        <p class="font-bold"> {{$likes}} <span class="font-normal">Likes</span> </p>
+        <p class="font-bold">  {{$likes}} <span class="font-normal">Likes</span> </p>
     
     </div>
 
